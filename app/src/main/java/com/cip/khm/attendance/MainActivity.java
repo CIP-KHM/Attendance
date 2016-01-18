@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent login = new Intent(MainActivity.this,stuactivity.class);
 
-                startActivity(login);
+                startActivity(login); //bhai nmass
             }
         });
         t.setOnClickListener(new View.OnClickListener() {
